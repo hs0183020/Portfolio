@@ -1,0 +1,3 @@
+The Python folder contains a diverse collection of projects and requests that utilize Python as the primary programming language. Within this folder, you will find various scripts, notebooks, and modules that demonstrate a range of applications and analyses. These projects leverage numerous data analytics libraries to perform complex data manipulation, visualization, and modeling tasks. Some of the key libraries commonly used in these projects include Pandas, NumPy, Matplotlib, SciPy and Scikit-learn.
+
+Each project within this folder is designed to address specific analytical tasks, ranging from data preprocessing and cleaning to advanced statistical modeling.

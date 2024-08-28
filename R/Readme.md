@@ -1,0 +1,3 @@
+The R folder contains a diverse collection of projects and requests that utilize R code as the primary programming language. Within this folder, you will find various scripts that demonstrate a range of applications and analyses. These projects leverage numerous data analytics libraries to perform complex data manipulation, visualization, and modeling tasks. Some of the key libraries commonly used in these projects include pdftools, haven, openxlsx, dplyr, readr, tidytext and rlist.
+
+Each project within this folder is designed to address specific analytical tasks, ranging from data processing and cleaning to advanced statistical modeling.
